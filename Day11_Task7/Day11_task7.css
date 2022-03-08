@@ -1,0 +1,21 @@
+.box{
+    display: inline;
+}
+.title{
+    background-color: red;
+}
+ .line{
+    /* border-left: 0px; */
+    /* border-top: 0px; */
+    /* border-right: 0px; */
+    margin-right: 2%;
+    margin-left: 2%;
+    box-sizing: content-box;
+
+}
+.nameLine{
+    float: left;
+}
+.mem1{
+    display: block;
+}
